@@ -1,2 +1,2 @@
 # HackerRank-Java
-This repository consists of all the programming challenges that are part of  HackerRank's Java practice.
+This repository consists of the challenges, solved as a part of Java coding practice from HackerRank.
